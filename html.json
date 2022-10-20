@@ -1,0 +1,4 @@
+{
+  "html": "<body><div class=\"lout-row\"><div class=\"lout-cell\"><div id=\"idjn\">Insert your text here</div></div><div class=\"lout-cell\"></div></div></body>",
+  "css": "* { box-sizing: border-box; } body {margin: 0;}.lout-row{display:flex;justify-content:flex-start;align-items:stretch;flex-wrap:nowrap;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;}.lout-cell{min-height:75px;flex-grow:1;flex-basis:100%;}#idjn{padding:10px;}@media (max-width: 768px){.lout-row{flex-wrap:wrap;}}"
+}
